@@ -5,7 +5,7 @@
 <br>
 <br>
 
-### 💻Stack
+### 💻 Stack
 <br>
 
 **Backend**
@@ -28,12 +28,19 @@
 
 <br>
 
-### 🛠️Tools
+### 🛠️ Tools
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 <br>
+
+### 🎓 Algorithm
+  
+<a href="https://solved.ac/profile/chohyunhwa">
+  <img alt="solved.ac profile" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chohyunhwa"/>
+  <img alt="solved.ac log" src="http://mazandi.herokuapp.com/api?handle=chohyunhwa&theme=warm"/>
+</a>
 
 ### ✨My Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=CHOHYUNHWA&show_icons=true">
