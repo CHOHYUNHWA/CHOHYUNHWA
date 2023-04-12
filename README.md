@@ -37,9 +37,9 @@
 
 ### 🎓 Algorithm
   
-<a href="https://solved.ac/profile/chohyunhwa">
-  <img alt="solved.ac profile" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chohyunhwa"/>
-  <img alt="solved.ac log" src="http://mazandi.herokuapp.com/api?handle=chohyunhwa&theme=warm"/>
+<a href="https://solved.ac/profile/gusghk115">
+  <img alt="solved.ac profile" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gusghk115"/>
+  <img alt="solved.ac log" src="http://mazandi.herokuapp.com/api?handle=gusghk115&theme=warm"/>
 </a>
 
 ### ✨My Github Stats
