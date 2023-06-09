@@ -39,6 +39,13 @@
 
 <br>
 
+### 📘 Blog
+
+This blog is a repository for my learning records and a space for review.<br>
+Blog Url :  https://chohyunhwa.github.io/
+
+<br>
+
 ### 🎓 Algorithm
   
 <a href="https://solved.ac/profile/gusghk115">
