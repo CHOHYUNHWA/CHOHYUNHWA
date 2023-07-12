@@ -5,12 +5,12 @@
 ### Me🧑🏻‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gusghk115@gmail.com)](mailto:gusghk115@gmail.com)
-[![Blog Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=https://hyunhwa-dev.tistory.com/)](https://hyunhwa-dev.tistory.com/)
+[![Blog Badge](https://img.shields.io/badge/-Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://hyunhwa-dev.tistory.com/)](https://hyunhwa-dev.tistory.com/)
 
 
 <p>Hi There! I'm a frontEnd developer.</p>
 <p> My main skills are Java and Spring </p>
-<p>I'm a persistent person, who study hard day and night for be a good developer.🥰</p>
+<p>I'm a persistent person, who study hard day and night for be a good developer.🔥</p>
 
 <br>
 
@@ -25,11 +25,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?&style=flat&logo=GitHub&logoColor=white) 
 ![Slack](https://img.shields.io/badge/Slack-4a154b?style=flat&logo=Slack&logoColor=white)
 
-### 📘 Blog
-
-This blog is a repository for my learning records and a space for review.<br>
-Blog Url :  https://chohyunhwa.github.io/
-
 <br>
 
 ### 🎓 Algorithm
@@ -43,13 +38,6 @@ Blog Url :  https://chohyunhwa.github.io/
 
 ### ✨My Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=CHOHYUNHWA&show_icons=true">
-
-<br>
-<br>
-
-### 📮 Contact
-  
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gusghk115@gmail.com)](mailto:gusghk115@gmail.com)
 
 </div>
 
