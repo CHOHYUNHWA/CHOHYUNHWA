@@ -10,9 +10,9 @@
 [![Blog Badge](https://img.shields.io/badge/-Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://hyunhwa-dev.tistory.com/)](https://hyunhwa-dev.tistory.com/)
 
 
-<p>Hi There! I'm a frontEnd developer.</p>
+<p>Hi There! I'm a backend developer.</p>
 <p> My main skills are Java and Spring </p>
-<p>I'm a persistent person, who study hard day and night for be a good developer.🔥</p>
+<p>I'm a persistent person, who study hard day and night for be a good developer🔥</p>
 
 <br>
 
