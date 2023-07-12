@@ -1,43 +1,29 @@
-## Hi, I'm hyunhwa 👋
-
-🧑🏻‍💻 I'm HyunHwa Cho, **Back-end developer**
-
-<br>
-<br>
-
+<div align="center">
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCHOHYUNHWA&count_bg=%23191919&title_bg=%23191919&icon=github.svg&icon_color=%23FFFFFF&title=Github+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<br>
+### Me🧑🏻‍💻
 
-### 💻 Stack
-<br>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gusghk115@gmail.com)](mailto:gusghk115@gmail.com)
+[![Blog Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=https://hyunhwa-dev.tistory.com/)](https://hyunhwa-dev.tistory.com/)
 
-**Backend**
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
-<img src="https://img.shields.io/badge/Spring boot-6DB33F?style=for-the-badge&logo=Spring boot&logoColor=white"> 
-<img src="https://img.shields.io/badge/Spring data jpa-6DB33F?style=for-the-badge&logo=Spring data jpa&logoColor=white"> 
-<img src="https://img.shields.io/badge/Spring security-6DB33F?style=for-the-badge&logo=Spring security&logoColor=white"> 
-<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-<img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
-<img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellij idea&logoColor=white">
-
-**DevOps**
-
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<p>Hi There! I'm a frontEnd developer.</p>
+<p> My main skills are Java and Spring </p>
+<p>I'm a persistent person, who study hard day and night for be a good developer.🥰</p>
 
 <br>
 
-### 🛠️ Tools
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-<img src="https://img.shields.io/badge/postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+### 💻 Teck Stack
 
-<br>
+![Java](https://img.shields.io/badge/Java-007396?&style=flat&logo=OpenJDK&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?&style=flat&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?&style=flat&logo=GitHub&logoColor=white) 
+![Slack](https://img.shields.io/badge/Slack-4a154b?style=flat&logo=Slack&logoColor=white)
 
 ### 📘 Blog
 
@@ -64,6 +50,8 @@ Blog Url :  https://chohyunhwa.github.io/
 ### 📮 Contact
   
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gusghk115@gmail.com)](mailto:gusghk115@gmail.com)
+
+</div>
 
 
 
