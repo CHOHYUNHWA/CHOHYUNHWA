@@ -20,7 +20,6 @@
 
 ![Java](https://img.shields.io/badge/Java-007396?&style=flat&logo=OpenJDK&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white) 
@@ -28,7 +27,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?&style=flat&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?&style=flat&logo=GitHub&logoColor=white) 
 ![Slack](https://img.shields.io/badge/Slack-4a154b?style=flat&logo=Slack&logoColor=white)
-
+<!-- ![Hibernate](https://img.shields.io/badge/hibernate-59666C?style=flat&logo=hibernate&logoColor=white) -->
 <br>
 
 ### 🎓 Algorithm
