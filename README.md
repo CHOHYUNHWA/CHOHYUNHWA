@@ -34,7 +34,7 @@
   
 <a href="https://solved.ac/profile/gusghk115">
   <img alt="solved.ac profile" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gusghk115"/>
-  <img alt="solved.ac log" src="http://mazandi.herokuapp.com/api?handle=gusghk115&theme=warm"/>
+ <!-- <img alt="solved.ac log" src="http://mazandi.herokuapp.com/api?handle=gusghk115&theme=warm"/> --!>
 </a>
 
 <br>
