@@ -8,6 +8,9 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gusghk115@gmail.com)](mailto:gusghk115@gmail.com)
 [![Blog Badge](https://img.shields.io/badge/-Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://hyunhwa-dev.tistory.com/)](https://hyunhwa-dev.tistory.com/)
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+</a>
 
 
 <p>Hi There! I'm a backend developer.</p>
